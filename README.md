@@ -3,8 +3,7 @@
 
 ## Objective
 
-Setting up a Security Information and Event Management (SIEM) system through Microsoft Azure and creating a threat intelligence feed.
-
+Setting up a Security Information and Event Management (SIEM) system through Microsoft Azure
 ### Skills Learned
 
 - How to navigate Microsoft Azure directory
