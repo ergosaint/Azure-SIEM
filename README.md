@@ -1,9 +1,9 @@
 
-# Microsoft Azure SIEM
+# Azure SOC Lab
 
 ## Objective
 
-Setting up a Security Information and Event Management (SIEM) system through Microsoft Azure
+Creating my very own Security Operations Center and Setting up a Security Information and Event Management (SIEM) system through Microsoft Azure
 ### Skills Learned
 
 - How to navigate Microsoft Azure directory
