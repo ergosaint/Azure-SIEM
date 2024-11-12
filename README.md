@@ -42,4 +42,5 @@ Creating my very own Security Operations Center and Setting up a Security Inform
    
 ![Screenshot 2024-10-31 022009](https://github.com/user-attachments/assets/9c9ef61d-745c-4fc8-935b-63c6f73216fe) *Ref 3: Rule Setup*
 
-7. WE ARE DONE!!!!! for now.
+7. Succesfully created a Honeypot for  RDP connections !!!!!
+   
